@@ -9,8 +9,9 @@
 ### login as admin
 
 ![s1](https://user-images.githubusercontent.com/108696087/210635489-08973fa8-5281-41f0-8178-d58b3af3925b.png)
+![s23](https://user-images.githubusercontent.com/108696087/210635910-590d5d2e-8765-4f84-a456-fe29d9cc345a.png)
 
-![s2](https://user-images.githubusercontent.com/108696087/210635516-4fe8b892-964a-4e5e-a5f1-bd12431085a8.png)
+
 
 ### login as user
 ![s3](https://user-images.githubusercontent.com/108696087/210635556-025583e3-81b6-4a70-9dfa-678119166273.png)
